@@ -24,4 +24,4 @@ We are based on the code of crozono to learn. Thanks @UnaPibaGeek
 
 # Objetivos
 
-- [ ] Tildar este item
+- [X] Tildar este item
